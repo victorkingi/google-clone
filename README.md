@@ -1,3 +1,8 @@
+## Google Search clone
+
+This is a Google clone built using react that uses google's search api engine
+to bring you results. A maximum of 100 searches can be done in one day. Here is the website [mygoogle](https://clone-36ef7.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
